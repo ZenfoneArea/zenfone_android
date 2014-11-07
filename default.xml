@@ -472,6 +472,7 @@
   <!-- Specific Revolution projects -->
 
   <project path="device/asus/zenfone5" name="ZenfoneArea/android_device_asus_zenfone5" revision="master" />
+  <project path="kernel/asus/zenfone5" name="ZenfoneArea/android_kernel_asus_zenfone5" revision="master" />
   <project path="cm11_patches" name="ZenfoneArea/cm11_patches" revision="master" />
   <project path="external/libvpx" name="ZenfoneArea/android_external_libvpx" groups="pdk" revision="master" />
   <project path="hardware/broadcom/libbt" name="ZenfoneArea/platform_hardware_broadcom_libbt" groups="pdk" revision="release/android-4.4.2_r1-ia2" />
