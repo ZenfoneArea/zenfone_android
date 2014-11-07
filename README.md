@@ -1,3 +1,3 @@
 zenfone_android
 ===============
-repo init -u git://github.com/ZenfoneArena/zenfone_android.git -b master
+repo init -u git://github.com/ZenfoneArea/zenfone_android.git -b master
